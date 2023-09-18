@@ -10,7 +10,7 @@ I'm a 4th-year student at Bangladesh University of Engineering and Technology (B
 - 🔭 **Research Interests:**
 
   - Bioinformatics, Machine Learning and Natural Language Processing.
-  - Detection of structural variants in human genetic diversity using long reads.
+  - Detection of structural variants in human genetic diversity from long reads.
   - Cyber Threat Intelligence involving vulnerability detection.
   - Traffic simulator for road traffic networks.
 
