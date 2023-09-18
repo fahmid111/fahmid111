@@ -9,27 +9,28 @@
 
 I'm a 4th-year student at Bangladesh University of Engineering and Technology (BUET). As a Computer Science and Engineering undergraduate, I've delved deep into both software development and research, exploring various domains and technologies. My projects range from web applications to traffic simulations, and my research work delves into the intricacies of road traffic networks, cybersecurity, and bioinformatics.
 
-- 🔭 Research Interests:
+- 🔭 **Research Interests:**
 
-Understanding the impacts of roadside objects on road traffic networks.
-Exploring the efficiency of manual vs. automated vulnerability detection in cybersecurity.
-Improving the detection of structural variants in human genetic diversity using long reads.
+  - Understanding the impacts of roadside objects on road traffic networks.
+  - Exploring the efficiency of manual vs. automated vulnerability detection in cybersecurity.
+  - Improving the detection of structural variants in human genetic diversity using long reads.
 
-- 🌱 Technologies & Frameworks:
+- 🌱 **Technologies & Frameworks:**
 
-Web Development: Node-Express, React Next.js
-Database: PostgreSQL
-Others: iGraphics, Spring Boot, Angular
+  - **Web Development:** Node-Express, React Next.js
+  - **Database:** PostgreSQL
+  - **Others:** iGraphics, Spring Boot, Angular
 
-- 🤔 Seeking Collaborations On:
+- 🤔 **Seeking Collaborations On:**
 
-Advanced traffic simulations and their impact on urban planning.
-Enhancing the accuracy and efficiency of genetic sequencing data analysis.
+  - Advanced traffic simulations and their impact on urban planning.
+  - Enhancing the accuracy and efficiency of genetic sequencing data analysis.
 
-- 👯 Open For:
+- 👯 **Open For:**
 
-Collaborations on research projects related to my areas of interest.
-Joining hands on open-source development projects that aim to make a difference.
+  - Collaborations on research projects related to my areas of interest.
+  - Joining hands on open-source development projects that aim to make a difference.
+
 
 <!--## Connect with me:
 
