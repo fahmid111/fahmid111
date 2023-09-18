@@ -9,25 +9,21 @@ I'm a 4th-year student at Bangladesh University of Engineering and Technology (B
 
 - 🔭 **Research Interests:**
 
-  - Understanding the impacts of roadside objects on road traffic networks.
-  - Exploring the efficiency of manual vs. automated vulnerability detection in cybersecurity.
-  - Improving the detection of structural variants in human genetic diversity using long reads.
+  - Bioinformatics, Machine Learning and Natural Language Processing.
+  - Detection of structural variants in human genetic diversity using long reads.
+  - Cyber Threat Intelligence involving vulnerability detection.
+  - Traffic simulator for road traffic networks.
+  - 
 
-- 🌱 **Technologies & Frameworks:**
+- 📚 **Currently Learning:**
 
-  - **Web Development:** Node-Express, React Next.js
-  - **Database:** PostgreSQL
-  - **Others:** iGraphics, Spring Boot, Angular
+  - Diving deep into the realms of Machine Learning and Deep Learning.
+  - Exploring Natural Language Processing (NLP) and its applications.
 
-- 🤔 **Seeking Collaborations On:**
+- 👯 **Collaboration:**
 
-  - Advanced traffic simulations and their impact on urban planning.
-  - Enhancing the accuracy and efficiency of genetic sequencing data analysis.
-
-- 👯 **Open For:**
-
-  - Collaborations on research projects related to my areas of interest.
-  - Joining hands on open-source development projects that aim to make a difference.
+  - Open for collaborations on research projects related to my areas of interest.
+  - Open for joining hands on web development projects.
 
 
 <!--## Connect with me:
