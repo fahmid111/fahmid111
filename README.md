@@ -68,8 +68,8 @@ I'm a 4th-year student at Bangladesh University of Engineering and Technology (B
 
 ## GitHub Overview:
 
-<img align="left" alt="fahmid111's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fahmid111&show_icons=true" />   &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmid111&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+<img align="left" alt="fahmid111's Github Stats" src="[https://github-readme-stats.vercel.app/api?username=fahmid111&show_icons=true](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)" />   &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
