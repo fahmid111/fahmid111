@@ -1,8 +1,6 @@
 
 <!--![Banner](https://img) -->
 
-[![CF](https://cp-logo.vercel.app/codeforces/fahmid111?logo=true)](https://codeforces.com/profile/fahmid111)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/YourChannelID?color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=plastic)
 <img src="https://komarev.com/ghpvc/?username=fahmid111">
 
 ### Hi 👋, I'm Abu Humayed Azim Fahmid
